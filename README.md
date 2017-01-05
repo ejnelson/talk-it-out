@@ -1,4 +1,4 @@
 # Talk It Out
 
--Erik Nelson
--Brian Schorn
+-Erik Nelson  
+-Brian Schorn  
