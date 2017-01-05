@@ -1,3 +1,4 @@
 # Talk It Out
 
-*See Prime assignment app for instructions. Then, update me!*
+-Erik Nelson
+-Brian Schorn
